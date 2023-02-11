@@ -1,0 +1,3 @@
+function maxInArray() {
+    return maxElement
+}
