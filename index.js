@@ -1,3 +1,1 @@
-function maxInArray() {
-    return maxElement
-}
+console.log('hello world')
